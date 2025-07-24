@@ -1,4 +1,4 @@
-# Username Availability Checker - GitHub & Steam
+# Username Availability Checker - GitHub & Steam  - - - - - > _ < 
 
 This Python script automatically checks if randomly generated usernames are available on **GitHub** and **Steam** (custom profile URLs).
 
